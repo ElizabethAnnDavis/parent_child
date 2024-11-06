@@ -1,0 +1,33 @@
+.parent{
+    border:solid blue;
+   height:300px;
+   display:flex;
+   justify-content: space-around;
+
+}
+.son{
+    border:solid green;
+    margin:1em;
+}
+.daughter{
+    border:solid purple;
+    margin:1em;
+}
+
+.navbar{
+
+}
+
+.midSection{
+
+}
+
+
+.hello{
+    border:solid blue;
+}
+
+.pic{
+    border:solid red;
+    display:flex;
+}
