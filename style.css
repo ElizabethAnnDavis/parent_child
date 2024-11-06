@@ -1,9 +1,8 @@
 .parent{
     border:solid blue;
-   height:300px;
-   display:flex;
-   justify-content: space-around;
-
+    height:300px;
+    display:flex;
+    justify-content: space-around;
 }
 .son{
     border:solid green;
@@ -14,6 +13,10 @@
     margin:1em;
 }
 
+body{
+    border:solid black;
+    padding:1em;
+}
 .navbar{
 
 }
